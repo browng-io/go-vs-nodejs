@@ -5,7 +5,7 @@
 ## Test example
 - Test for Node server
 ```
-$ ab -n 100 -c 10 100 http://127.0.0.1:3008/fillbuffer
+$ ab -n 100 -c 10 http://127.0.0.1:3008/fillbuffer
 ```
 - Test for golang server
 ```
